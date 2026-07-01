@@ -13,3 +13,15 @@ Solutions are automatically synced using LeetHub.
 
 Language: Java
 Platform: LeetCode
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
