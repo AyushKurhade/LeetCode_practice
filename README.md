@@ -1,2 +1,15 @@
-# LeetCode_practice
-Collection of my LeetCode solutions implemented in Java and automatically synced using LeetHub. This repository tracks my DSA practice and problem-solving progress.
+# LeetCode Solutions
+
+This repository contains my LeetCode problem solutions solved using Java.
+
+The purpose of this repository is to:
+
+* Practice Data Structures and Algorithms (DSA)
+* Improve problem-solving skills
+* Build consistency through regular coding
+* Prepare for coding interviews and placements
+
+Solutions are automatically synced using LeetHub.
+
+Language: Java
+Platform: LeetCode
