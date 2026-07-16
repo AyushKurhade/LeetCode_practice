@@ -27,9 +27,14 @@ Platform: LeetCode
 ## Math
 |  |
 | ------- |
+| [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
