@@ -20,11 +20,13 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +67,8 @@ Platform: LeetCode
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1025-divisor-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
