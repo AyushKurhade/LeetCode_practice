@@ -33,6 +33,7 @@ Platform: LeetCode
 | [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [1025-divisor-game](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
