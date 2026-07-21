@@ -22,6 +22,7 @@ Platform: LeetCode
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2678-number-of-senior-citizens](https://github.com/AyushKurhade/LeetCode_practice/tree/master/2678-number-of-senior-citizens) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ Platform: LeetCode
 | ------- |
 | [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2678-number-of-senior-citizens](https://github.com/AyushKurhade/LeetCode_practice/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
