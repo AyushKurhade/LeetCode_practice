@@ -21,6 +21,7 @@ Platform: LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/AyushKurhade/LeetCode_practice/tree/master/2678-number-of-senior-citizens) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -34,6 +35,7 @@ Platform: LeetCode
 | ------- |
 | [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [1025-divisor-game](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
