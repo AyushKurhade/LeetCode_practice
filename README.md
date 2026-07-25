@@ -21,6 +21,7 @@ Platform: LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -67,6 +68,7 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0152-maximum-product-subarray) |
 | [1025-divisor-game](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
