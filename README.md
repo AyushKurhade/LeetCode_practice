@@ -21,6 +21,7 @@ Platform: LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,10 +58,12 @@ Platform: LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
