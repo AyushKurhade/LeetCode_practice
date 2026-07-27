@@ -8,7 +8,7 @@ class Solution {
 
       switch (nums[mid]) {
         case 0:
-          // Swap with start index
+          // Swap element with first one
           swap(nums, start, mid);
           mid++;
           start++;
@@ -19,7 +19,7 @@ class Solution {
           break;
 
         case 2:
-          // Swap with end index
+          // Swap element with last one
           swap(nums, mid, end);
           end--;
           break;
