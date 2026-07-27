@@ -1,6 +1,6 @@
 class Solution {
     public void sortColors(int[] nums) {
-         int start = 0;
+      int start = 0;
     int mid = 0;
     int end = nums.length - 1;
 
@@ -8,7 +8,7 @@ class Solution {
 
       switch (nums[mid]) {
         case 0:
-          // Swap element with first one
+          // Swap with start index
           swap(nums, start, mid);
           mid++;
           start++;
@@ -19,7 +19,7 @@ class Solution {
           break;
 
         case 2:
-          // Swap element with last one
+          // Swap with end index
           swap(nums, mid, end);
           end--;
           break;
@@ -35,5 +35,3 @@ class Solution {
   }
 
 }
-        
-    
