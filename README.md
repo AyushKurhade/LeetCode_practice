@@ -20,6 +20,7 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0152-maximum-product-subarray) |
@@ -52,6 +53,7 @@ Platform: LeetCode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0014-longest-common-prefix) |
 | [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/AyushKurhade/LeetCode_practice/tree/master/2678-number-of-senior-citizens) |
@@ -92,4 +94,8 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
