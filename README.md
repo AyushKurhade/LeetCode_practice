@@ -26,6 +26,7 @@ Platform: LeetCode
 | [0152-maximum-product-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/AyushKurhade/LeetCode_practice/tree/master/2678-number-of-senior-citizens) |
@@ -98,4 +99,8 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
