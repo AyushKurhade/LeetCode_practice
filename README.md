@@ -25,6 +25,7 @@ Platform: LeetCode
 | [0075-sort-colors](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
+| [0486-predict-the-winner](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -39,6 +40,7 @@ Platform: LeetCode
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1025-divisor-game) |
@@ -78,6 +80,7 @@ Platform: LeetCode
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -86,6 +89,7 @@ Platform: LeetCode
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
@@ -103,4 +107,8 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0724-find-pivot-index) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
