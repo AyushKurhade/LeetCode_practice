@@ -40,6 +40,7 @@ Platform: LeetCode
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0486-predict-the-winner](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0628-maximum-product-of-three-numbers) |
