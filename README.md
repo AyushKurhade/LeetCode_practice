@@ -37,6 +37,7 @@ Platform: LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0504-base-7) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AyushKurhade/LeetCode_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2678-number-of-senior-citizens](https://github.com/AyushKurhade/LeetCode_practice/tree/master/2678-number-of-senior-citizens) |
@@ -71,6 +73,7 @@ Platform: LeetCode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushKurhade/LeetCode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
