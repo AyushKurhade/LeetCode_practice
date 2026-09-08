@@ -51,6 +51,7 @@ Platform: LeetCode
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/AyushKurhade/LeetCode_practice/tree/master/3870-count-commas-in-range) |
 ## Number Theory
 |  |
 | ------- |
